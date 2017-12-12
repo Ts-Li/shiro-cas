@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="slife-activiti" />
+        <module name="slife-blog" />
+        <module name="slife-common" />
+        <module name="slife-log" />
+        <module name="slife-sys" />
+        <module name="slife-test" />
+        <module name="slife-web" />
+        <module name="slife-wx-applet" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="slife" target="1.8" />
+      <module name="slife-activiti" target="1.8" />
+      <module name="slife-blog" target="1.8" />
+      <module name="slife-common" target="1.8" />
+      <module name="slife-log" target="1.8" />
+      <module name="slife-sys" target="1.8" />
+      <module name="slife-test" target="1.8" />
+      <module name="slife-web" target="1.8" />
+      <module name="slife-wx-applet" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

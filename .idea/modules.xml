@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/slife.iml" filepath="$PROJECT_DIR$/slife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slife-activiti/slife-activiti.iml" filepath="$PROJECT_DIR$/slife-activiti/slife-activiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slife-blog/slife-blog.iml" filepath="$PROJECT_DIR$/slife-blog/slife-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slife-common/slife-common.iml" filepath="$PROJECT_DIR$/slife-common/slife-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slife-log/slife-log.iml" filepath="$PROJECT_DIR$/slife-log/slife-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slife-sys/slife-sys.iml" filepath="$PROJECT_DIR$/slife-sys/slife-sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slife-test/slife-test.iml" filepath="$PROJECT_DIR$/slife-test/slife-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slife-web/slife-web.iml" filepath="$PROJECT_DIR$/slife-web/slife-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slife-wx-applet/slife-wx-applet.iml" filepath="$PROJECT_DIR$/slife-wx-applet/slife-wx-applet.iml" />
+    </modules>
+  </component>
+</project>
