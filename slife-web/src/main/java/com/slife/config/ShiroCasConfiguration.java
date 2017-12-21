@@ -21,7 +21,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * Created by willwu on 16-4-14.
+ * 
  */
 @Configuration
 public class ShiroCasConfiguration {

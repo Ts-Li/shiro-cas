@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * Created by wwu on 2017/4/13.
+ * 
  */
 @Controller
 @RequestMapping("/")
